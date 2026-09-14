@@ -1,8 +1,8 @@
 SATQUERY-AI 
 
-Hello everyone 
-I am Ram!
-Sorry for deleting the initial README file 
-It will be back soon !!!
+Hello everyone <br>
+I am Ram!<br>
+Sorry for deleting the initial README file. <br>
+It will be back soon !!!<br>
 
 Love you all 
